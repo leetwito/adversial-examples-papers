@@ -1,5 +1,8 @@
 # adversial-examples-papers
 
+Exploring the field of NN fooling with adversarial examples using different methods.
+
+
 Goodfellow lecture:
 https://www.youtube.com/watch?v=CIfsB_EYsVI
 
